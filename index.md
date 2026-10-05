@@ -1,5 +1,5 @@
 # Yuanqi Yang
-18612617122 | yangyuanqi0936@163.com
+Email yangyuanqi0936@163.com
 
 Welcome to my personal homepage.
 I am a quantitative researcher with research interests in asset pricing, econometrics, and systematic quantitative investment strategies.
@@ -7,21 +7,16 @@ You can find my work experience, education background and research papers below.
 
 ## Professional Experience
 **LuoShu Investment | Quantitative Researcher**
-*July 2024 – Present*
+*2024 – Present*
 
-- Responsible for R&D of macro, equity and commodity futures (CTA) quantitative strategies.
-- **Macro Alpha Strategies**: Built tree-based models using macro factors to forecast asset returns. Constructed market-beta hedged pure alpha portfolios. Backtest Sharpe: 1.7–1.8 (since 2014); live Sharpe ~1.4 after deployment in Sep 2025.
-- **Macro Trend Strategies**: Track macro factor trends and forecast asset returns. Developed econometric corrections for near-integrated signals and serial correlation, plus structural break detection. Backtest Sharpe: 1.95 (since 2012).
-- **Equity Cross-Sectional Strategies**: Curated over 100 stock factors and applied machine learning for cross-sectional return prediction. Backtest annual return 37%, Sharpe 2.05 (since 2011).
-- **Stock Index Future Strategies**: Model overnight and intraday returns to capture pricing dislocations. Backtest Sharpe: 2.3 (since 2015).
-- **CTA Strategies**: Collected daily trend, carry and term-structure factors for commodity futures trading.
+- Responsible for R&D of macro, equity, stock index and commodity futures (CTA) quantitative strategies.
 
 ## Education
 **Central University of Finance and Economics**
-Master of Financial Engineering, School of Finance | Sep 2021 – June 2024
+Master of Financial Engineering, School of Finance
 
 **Central University of Finance and Economics**
-Bachelor of Actuarial Science, School of Insurance | Sep 2017 – June 2021
+Bachelor of Actuarial Science, School of Insurance
 
 ## Working Papers & Publications
 1. Yuanqi Yang, Yifeng Zhu, Guofu Zhou. *Fama-MacBeth Regression with Asset Pricing Restriction*. Management Science, Review and Resubmit (R&R).
