@@ -12,9 +12,6 @@
 }
 </style>
 
----
-title: Yuanqi Yang
----
 Contact yangyuanqi0936@163.com
 
 Welcome to my personal homepage.
