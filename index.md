@@ -1,5 +1,21 @@
-# Yuanqi Yang
-Email yangyuanqi0936@163.com
+<style>
+@media print {
+  header.site-header {
+    display: none !important;
+  }
+  footer.site-footer {
+    display: none !important;
+  }
+  @page {
+    margin: 1.2cm;
+  }
+}
+</style>
+
+---
+title: Yuanqi Yang
+---
+Contact yangyuanqi0936@163.com
 
 Welcome to my personal homepage.
 I am a quantitative researcher with research interests in asset pricing, econometrics, and systematic quantitative investment strategies.
