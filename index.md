@@ -1,5 +1,5 @@
 ---
-title: Personal WebSite: Yuanqi Yang
+title: 'Personal WebSite: Yuanqi Yang'
 ---
 
 Email: yangyuanqi0936@163.com
