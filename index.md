@@ -3,7 +3,10 @@ layout: cv
 title: Yuanqi Yang
 ---
 
-Email: yangyuanqi0936@163.com
+# Yuanqi Yang
+
+## Email
+** yangyuanqi0936@163.com
 
 Welcome to my personal homepage.
 I am a quantitative researcher with research interests in asset pricing, econometrics, and systematic quantitative investment strategies.
@@ -24,6 +27,6 @@ Bachelor of Actuarial Science, School of Insurance
 
 ## Working Papers & Publications
 
-Yuanqi Yang, Yifeng Zhu, Guofu Zhou. *Fama-MacBeth Regression with Asset Pricing Restriction*. Management Science, Review and Resubmit (R&R).
+** Yuanqi Yang, Yifeng Zhu, Guofu Zhou. Fama-MacBeth Regression with Asset Pricing Restriction*. Management Science, Review and Resubmit (R&R).
 
-- Code and data: [Coming soon](https://github.com/你的用户名/fama-macbeth-restriction)
+* Code and data: [Coming soon](https://github.com/你的用户名/fama-macbeth-restriction)
