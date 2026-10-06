@@ -1,17 +1,1 @@
----
----
-@import "{{ site.theme }}";
 
-/* 打印时隐藏网页顶部header和footer */
-@media print {
-  header.site-header {
-    display: none !important;
-  }
-  footer.site-footer {
-    display: none !important;
-  }
-  /* 页面边距，适配A4 */
-  @page {
-    margin: 1.2cm;
-  }
-}
