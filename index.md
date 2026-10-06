@@ -12,8 +12,6 @@
 }
 </style>
 
-Contact yangyuanqi0936@163.com
-
 Welcome to my personal homepage.
 I am a quantitative researcher with research interests in asset pricing, econometrics, and systematic quantitative investment strategies.
 You can find my work experience, education background and research papers below.
@@ -32,10 +30,8 @@ Master of Financial Engineering, School of Finance
 Bachelor of Actuarial Science, School of Insurance
 
 ## Working Papers & Publications
-1. Yuanqi Yang, Yifeng Zhu, Guofu Zhou. *Fama-MacBeth Regression with Asset Pricing Restriction*. Management Science, Review and Resubmit (R&R).
 
-2. Maasoumi, Esfandiar, Yuanqi Yang, Yifeng Zhu (2026). *Ridge Stochastic Discount Factors*. Econometric Reviews.
-> Management Science is a top journal in business & finance; Econometric Reviews ranks among top 5 journals in econometrics.
+Yuanqi Yang, Yifeng Zhu, Guofu Zhou. *Fama-MacBeth Regression with Asset Pricing Restriction*. Management Science, Review and Resubmit (R&R).
 
 ## Research Projects
 > Links will point to your future GitHub repositories for code and replication data.
