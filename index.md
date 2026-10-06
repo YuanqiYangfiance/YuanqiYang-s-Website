@@ -17,8 +17,6 @@ You can find my work experience, education background and research papers below.
 **LuoShu Investment | Quantitative Researcher**
 *2024-07 – Present*
 
-- Responsible for R&D of macro, equity, stock index and commodity futures (CTA) quantitative strategies.
-
 ## Education
 **Central University of Finance and Economics**
 Master of Financial Engineering, School of Finance
