@@ -1,8 +1,6 @@
 ---
-title: 
+title: Yuanqi Yang
 ---
-
-# Yuanqi Yang
 
 Email: yangyuanqi0936@163.com
 
