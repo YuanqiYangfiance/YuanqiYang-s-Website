@@ -5,8 +5,6 @@ title: Yuanqi Yang
 
 # Yuanqi Yang
 
-/n/n
-
 Hello, welcome to my personal homepage.
 
 I am a quantitative researcher specialized in macro, equity, stock index and commodity futures (CTA) quantitative strategies. I am also interest in academic research in asset pricing, econometrics, and systematic quantitative investment strategies.
