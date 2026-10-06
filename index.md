@@ -1,4 +1,6 @@
-# Yuanqi Yang
+---
+title: Personal WebSite: Yuanqi Yang
+---
 
 Email: yangyuanqi0936@163.com
 
@@ -23,4 +25,4 @@ Bachelor of Actuarial Science, School of Insurance
 
 Yuanqi Yang, Yifeng Zhu, Guofu Zhou. *Fama-MacBeth Regression with Asset Pricing Restriction*. Management Science, Review and Resubmit (R&R).
 
-  Code and data: [Project Repository](https://github.com/你的用户名/fama-macbeth-restriction)
+*Code and data: [Coming soon](https://github.com/你的用户名/fama-macbeth-restriction)
