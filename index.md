@@ -1,14 +1,16 @@
 <style>
 @media print {
-  /* 隐藏Jekyll主题自带的页面头部标题 */
-  .site-header, header {
+  /* 隐藏页面上Jekyll自带header/footer */
+  header, footer {
     display: none !important;
   }
-  /* 阻止浏览器打印页眉页脚（部分浏览器支持） */
   @page {
-    margin: 0.4in;
-    @top-center { content: ""; }
-    @bottom-center { content: ""; }
+    size: A4;
+    margin: 0.2in 0.4in;
+    @top-left { content: ""; }
+    @top-right { content: ""; }
+    @bottom-left { content: ""; }
+    @bottom-right { content: ""; }
   }
 }
 </style>
