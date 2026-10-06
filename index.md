@@ -11,7 +11,7 @@ I am a quantitative researcher specialized in macro, equity, stock index and com
 You can find my work experience, education background and research papers below.
 
 ## Email
-** yangyuanqi0936@163.com
+**yangyuanqi0936@163.com
 
 ## Professional Experience
 **LuoShu Investment | Quantitative Researcher**
@@ -28,6 +28,5 @@ Bachelor of Actuarial Science, School of Insurance
 
 ## Working Papers & Publications
 
-** Yuanqi Yang, Yifeng Zhu, Guofu Zhou. Fama-MacBeth Regression with Asset Pricing Restriction*. Management Science, Review and Resubmit (R&R).
-
-* Code and data: [Coming soon](https://github.com/你的用户名/fama-macbeth-restriction)
+**Yuanqi Yang, Yifeng Zhu, Guofu Zhou. Fama-MacBeth Regression with Asset Pricing Restriction*. Management Science, Review and Resubmit (R&R).
+*Code and data: [Coming soon](https://github.com/你的用户名/fama-macbeth-restriction)
