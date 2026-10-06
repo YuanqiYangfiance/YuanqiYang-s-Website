@@ -5,12 +5,13 @@ title: Yuanqi Yang
 
 # Yuanqi Yang
 
+Hello, welcome to my personal homepage.
+
+I am a quantitative researcher specialized in macro, equity, stock index and commodity futures (CTA) quantitative strategies. I am also interest in academic research in asset pricing, econometrics, and systematic quantitative investment strategies.
+You can find my work experience, education background and research papers below.
+
 ## Email
 ** yangyuanqi0936@163.com
-
-Welcome to my personal homepage.
-I am a quantitative researcher with research interests in asset pricing, econometrics, and systematic quantitative investment strategies.
-You can find my work experience, education background and research papers below.
 
 ## Professional Experience
 **LuoShu Investment | Quantitative Researcher**
